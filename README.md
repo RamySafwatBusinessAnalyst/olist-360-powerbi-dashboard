@@ -154,8 +154,9 @@ assets/                  -> additional supporting files
 
 ---
 ## Dashboard Preview
-Executive Overview
-dashboards/screenshots/executive-overview.png
+
+![Executive Overview](dashboards/screenshots/executive-overview.png)
+
 Sales & Trends
 dashboards/screenshots/sales-trends.png
 Delivery & Satisfaction
