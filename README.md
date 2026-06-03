@@ -153,13 +153,13 @@ data/                    -> data notes / cleaned data references
 assets/                  -> additional supporting files
 
 ---
-``
-##Data Source
+
+##  Data Source
 Brazilian E-Commerce Public Dataset by Olist (Kaggle):
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ---
-``
-##Business Value
+
+##  Business Value
 This project demonstrates how a Data Analyst can move from raw transactional data to:
 
 executive KPI design
@@ -174,7 +174,7 @@ strengthening customer retention
 expanding baskets through cross-sell strategies
 
 ---
-``
-##Author
+
+##  Author
 **Ramy Safwat**
 **Role:** Business Analyst / Business Intelligence Portfolio Project
