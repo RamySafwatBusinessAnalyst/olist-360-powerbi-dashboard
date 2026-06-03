@@ -150,10 +150,12 @@ notebooks/               -> Jupyter notebooks
 sql/                     -> SQL scripts
 data/                    -> data notes / cleaned data references
 assets/                  -> additional supporting files
+---
 
 ## Data Source
 Brazilian E-Commerce Public Dataset by Olist (Kaggle):
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+---
 
 ## Business Value
 This project helps demonstrate how a Data Analyst can move from raw transactional data to:
@@ -169,6 +171,7 @@ improving delivery reliability,
 strengthening customer retention,
 and expanding baskets through cross-sell strategies.
 
+---
 
 ## Author
 Ramy Safwat
