@@ -150,11 +150,13 @@ notebooks/               -> Jupyter notebooks
 sql/                     -> SQL scripts
 data/                    -> data notes / cleaned data references
 assets/                  -> additional supporting files
+
 ---
 
 ## Data Source
 Brazilian E-Commerce Public Dataset by Olist (Kaggle):
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 ---
 
 ## Business Value
@@ -176,3 +178,4 @@ and expanding baskets through cross-sell strategies.
 ## Author
 Ramy Safwat
 Business Analyst / Business Intelligence Portfolio Project
+
