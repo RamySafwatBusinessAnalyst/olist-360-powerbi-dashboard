@@ -10,17 +10,17 @@ This project was designed to provide a unified analytical view of marketplace pe
 
 Olist 360 is a business intelligence and customer analytics project created to help business users move from fragmented operational reporting to a more strategic understanding of:
 
-- what drives revenue,
-- where operational gaps exist,
-- which customers and categories create the most value,
-- and which business levers can improve long-term performance.
+- what drives revenue
+- where operational gaps exist
+- which customers and categories create the most value
+- which business levers can improve long-term performance
 
 The project combines:
 
-- data cleaning and validation,
-- analytical feature engineering,
-- exploratory data analysis (EDA),
-- and Power BI dashboard design
+- data cleaning and validation
+- analytical feature engineering
+- exploratory data analysis (EDA)
+- Power BI dashboard design
 
 into one decision-support framework.
 
@@ -30,10 +30,10 @@ into one decision-support framework.
 
 The business lacks a unified analytical view connecting:
 
-- sales performance,
-- customer loyalty,
-- delivery operations,
-- and customer satisfaction.
+- sales performance
+- customer loyalty
+- delivery operations
+- customer satisfaction
 
 Without this integration, it becomes difficult to identify the true drivers of growth, detect operational bottlenecks, and understand retention behavior.
 
@@ -101,11 +101,12 @@ The project covers the following analytical themes:
 
 ### 6. Retention is structurally weak
 - Cohort analysis shows retention drops sharply after the first purchase
-- Long-term retention remains very low across cohorts
+- Long-term customer retention remains very low across cohorts
 
 ### 7. Basket expansion is a growth opportunity
 - Multi-category baskets have higher order value
 - Cross-sell rules reveal practical recommendation and bundling opportunities
+- Most basket growth potential lies in expanding beyond single-category purchases
 
 ---
 
@@ -127,7 +128,7 @@ The Power BI solution includes the following dashboard pages:
 ## Files Included
 
 ### Report
-- Project report (PDF / DOCX)
+- Final project report (PDF / DOCX)
 
 ### Dashboards
 - Dashboard screenshots
@@ -152,30 +153,28 @@ data/                    -> data notes / cleaned data references
 assets/                  -> additional supporting files
 
 ---
-
-## Data Source
+``
+##Data Source
 Brazilian E-Commerce Public Dataset by Olist (Kaggle):
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-
 ---
+``
+##Business Value
+This project demonstrates how a Data Analyst can move from raw transactional data to:
 
-## Business Value
-This project helps demonstrate how a Data Analyst can move from raw transactional data to:
-
-executive KPI design,
-structured analytical modeling,
-business-focused dashboards,
-and strategic recommendations.
+executive KPI design
+structured analytical modeling
+business-focused dashboards
+strategic recommendations
 
 The project highlights three major business opportunities:
 
-improving delivery reliability,
-strengthening customer retention,
-and expanding baskets through cross-sell strategies.
+improving delivery reliability
+strengthening customer retention
+expanding baskets through cross-sell strategies
 
 ---
-
-## Author
-Ramy Safwat
-Business Analyst / Business Intelligence Portfolio Project
-
+``
+##Author
+**Ramy Safwat**
+**Role:** Business Analyst / Business Intelligence Portfolio Project
