@@ -153,6 +153,18 @@ data/                    -> data notes / cleaned data references
 assets/                  -> additional supporting files
 
 ---
+## Dashboard Preview
+Executive Overview
+dashboards/screenshots/executive-overview.png
+Sales & Trends
+dashboards/screenshots/sales-trends.png
+Delivery & Satisfaction
+dashboards/screenshots/delivery.png
+Customers / RFM
+dashboards/screenshots/customers-rfm.png
+For additional visuals, see the full screenshots inside the dashboards/screenshots/ folder.
+
+---
 
 ##  Data Source
 Brazilian E-Commerce Public Dataset by Olist (Kaggle):
