@@ -139,31 +139,22 @@ The Power BI solution includes the following dashboard pages:
 
 ### SQL
 - SQL scripts used for data preparation, checks, and validation
-
 ---
 
-## Repository Structure
-
-```text
-report/                  -> final project report
-dashboards/screenshots/  -> dashboard screenshots
-notebooks/               -> Jupyter notebooks
-sql/                     -> SQL scripts
-data/                    -> data notes / cleaned data references
-assets/                  -> additional supporting files
-
----
 ## Dashboard Preview
 
 ![Executive Overview](dashboards/screenshots/executive-overview.png)
 
-Sales & Trends
-dashboards/screenshots/sales-trends.png
-Delivery & Satisfaction
-dashboards/screenshots/delivery.png
-Customers / RFM
-dashboards/screenshots/customers-rfm.png
-For additional visuals, see the full screenshots inside the dashboards/screenshots/ folder.
+### Sales & Trends
+![Sales & Trends](dashboards/screenshots/sales-trends.png)
+
+### Delivery & Satisfaction
+![Delivery & Satisfaction](dashboards/screenshots/delivery.png)
+
+### Customers / RFM
+![Customers / RFM](dashboards/screenshots/customers-rfm.png)
+
+For additional visuals, see the full screenshots inside the **dashboards/screenshots/** folder.
 
 ---
 
@@ -191,3 +182,13 @@ expanding baskets through cross-sell strategies
 ##  Author
 **Ramy Safwat**
 **Role:** Business Analyst / Business Intelligence Portfolio Project
+---
+## Repository Structure
+
+```text
+report/                  -> final project report
+dashboards/screenshots/  -> dashboard screenshots
+notebooks/               -> Jupyter notebooks
+sql/                     -> SQL scripts
+data/                    -> data notes / cleaned data references
+assets/                  -> additional supporting files
