@@ -174,21 +174,6 @@ strengthening customer retention
 expanding baskets through cross-sell strategies
 
 ---
-
-##  Author
-**Ramy Safwat**
-**Role:** Business Analyst / Business Intelligence Portfolio Project
----
-## Repository Structure
-
-```text
-report/                  -> final project report
-dashboards/screenshots/  -> dashboard screenshots
-notebooks/               -> Jupyter notebooks
-sql/                     -> SQL scripts
-data/                    -> data notes / cleaned data references
-assets/                  -> additional supporting files
-
 ----
 
 ## Data Source
@@ -263,3 +248,20 @@ Nothing in this repository should be interpreted as suggesting that **Olist** en
 This repository is provided "as is", without warranties of any kind.
 
 The repository owner makes no representation that inclusion of third-party data is sufficient for every downstream use case. Users are responsible for independently verifying the original source terms, applicable license conditions, and any other rights or restrictions that may apply.
+----
+
+
+##  Author
+**Ramy Safwat**
+**Role:** Business Analyst / Business Intelligence Portfolio Project
+---
+## Repository Structure
+
+```text
+report/                  -> final project report
+dashboards/screenshots/  -> dashboard screenshots
+notebooks/               -> Jupyter notebooks
+sql/                     -> SQL scripts
+data/                    -> data notes / cleaned data references
+assets/                  -> additional supporting files
+
