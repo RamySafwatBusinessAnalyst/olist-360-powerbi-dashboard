@@ -4,6 +4,10 @@ An end-to-end **Data Analyst / Business Intelligence project** built using **SQL
 
 This project was designed to provide a unified analytical view of marketplace performance across **sales trends, customer retention, delivery operations, product/category performance, customer satisfaction, and basket cross-sell opportunities**.
 
+> **Important License Scope Notice:** The **MIT License** in this repository applies **only** to the original code, notebooks, SQL scripts, documentation, and other original project materials created by the repository owner. It **does not apply** to any third-party dataset files included in this repository, whether raw, cleaned, transformed, merged, or exported. All such dataset files remain subject to their **original source license terms**, attribution requirements, and any applicable usage restrictions. In the case of the **Brazilian E-Commerce Public Dataset by Olist**, all rights in the original data remain with the original rights holder(s), and nothing in this repository should be interpreted as relicensing that dataset under MIT or as implying any endorsement by the original source. Users are solely responsible for reviewing and complying with the dataset’s original license and source terms before reusing, redistributing, modifying, or using any dataset-related files from this repository. 
+
+> **Important:** Any third-party dataset files contained in this repository are **excluded** from the scope of the repository’s MIT License. Such files remain governed exclusively by their **original source license terms**, including any attribution, non-commercial, share-alike, or other applicable restrictions. Inclusion of such files in this repository does **not** transfer ownership, does **not** relicense them under MIT, and does **not** imply endorsement by the original rights holder(s). 
+
 ---
 
 ## Project Overview
