@@ -1,0 +1,59 @@
+# Third-Party Dataset License Notice
+
+This repository may contain third-party dataset files derived from or copied from the following source:
+
+**Brazilian E-Commerce Public Dataset by Olist**  
+Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+## Ownership
+
+The original dataset is owned by its original rights holder(s).  
+This repository owner does not claim ownership of the original dataset.
+
+## Scope
+
+This notice applies to dataset files only.  
+It does not apply to the repository’s original code, notebooks, SQL scripts, documentation, or other original project materials unless explicitly stated.
+
+## Original Source and Attribution
+
+All credit for the original dataset belongs to **Olist** and the original dataset contributors/publishers.
+
+## License Reference
+
+If the original dataset page specifies **CC BY-NC-SA 4.0**, then dataset files in this repository are intended to remain subject to that same license:
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+## Key Conditions
+
+If CC BY-NC-SA 4.0 applies, then:
+
+1. **Attribution** must be preserved.
+2. **NonCommercial** use only.
+3. **ShareAlike** applies to adapted/modified versions.
+4. **Changes** to the original material should be indicated.
+5. **No endorsement** by the original source should be implied.
+
+## Included Transformations
+
+Dataset-related files in this repository may include:
+- cleaned files
+- filtered extracts
+- transformed versions
+- merged tables
+- analytical feature tables
+- reporting-ready exports
+
+These should be treated as derivative analytical materials based on the original dataset.
+
+## No Warranty
+
+Dataset files are provided "as is" without any warranty.
+
+## User Responsibility
+
+Anyone using dataset files from this repository is solely responsible for ensuring compliance with:
+- the original source terms
+- the original dataset license
+- any applicable legal or policy restrictions beyond the license itself
