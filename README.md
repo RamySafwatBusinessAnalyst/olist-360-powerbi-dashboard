@@ -158,10 +158,58 @@ For additional visuals, see the full screenshots inside the **dashboards/screens
 
 ---
 
-##  Data Source
-Brazilian E-Commerce Public Dataset by Olist (Kaggle):
-https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+## Data Source
+
+This project uses the **Brazilian E-Commerce Public Dataset by Olist**.
+
+- **Source / Provider:** Olist
+- **Original dataset page:** https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+- **Dataset summary:** Public Brazilian e-commerce dataset containing approximately 100k orders from 2016 to 2018, with order, payment, freight, customer, seller, product, review, and geolocation information. The dataset is anonymized according to the source description.
 ---
+## Dataset License & Attribution
+
+The dataset included/referenced in this repository is attributed to **Olist** and sourced from the original Kaggle page:
+
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+If the original dataset page specifies the license as **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**, then redistribution and reuse in this repository are intended to follow that license.
+
+License link:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Under this license:
+- **Attribution (BY):** Proper credit must be given to Olist and the original source.
+- **NonCommercial (NC):** The dataset and this redistribution are intended for non-commercial, educational, and portfolio purposes only.
+- **ShareAlike (SA):** If the dataset has been modified, transformed, or adapted, those contributions must be shared under the same license.
+- **No endorsement:** Nothing in this repository implies that Olist endorses me, this project, or any derived analysis.
+- ----
+## Changes Made to the Data
+
+The original dataset was obtained from the source above. In this repository, I may have performed one or more of the following steps for analysis purposes:
+
+- cleaned missing or inconsistent values
+- standardized column names or data types
+- created derived analytical tables / feature tables
+- aggregated records for reporting or modeling
+- added data quality flags
+- joined source files into analysis-ready datasets
+
+Any such modifications are for educational and portfolio purposes and should be treated as derivative analytical work based on the original dataset.
+-----
+## Non-Commercial Use Notice
+
+This repository is published for **educational, learning, and portfolio purposes only**.
+
+The dataset is **not provided here for commercial reuse**.  
+If you wish to use the data beyond non-commercial purposes, please consult the original source and license terms directly.
+----
+## Redistribution Notice
+
+Raw and/or processed dataset files included in this repository are redistributed solely for convenience and reproducibility, subject to the original dataset’s license terms.
+
+If you use, copy, modify, or redistribute these files, you are responsible for complying with the original license conditions, including attribution, non-commercial use, and share-alike requirements where applicable.
+--------
+
 
 ##  Business Value
 This project demonstrates how a Data Analyst can move from raw transactional data to:
