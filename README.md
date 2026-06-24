@@ -156,58 +156,6 @@ The Power BI solution includes the following dashboard pages:
 
 For additional visuals, see the full screenshots inside the **dashboards/screenshots/** folder.
 
----
-
-## Data Source
-
-This project uses the **Brazilian E-Commerce Public Dataset by Olist**.
-
-- **Source / Provider:** Olist
-- **Original dataset page:** https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-- **Dataset summary:** Public Brazilian e-commerce dataset containing approximately 100k orders from 2016 to 2018, with order, payment, freight, customer, seller, product, review, and geolocation information. The dataset is anonymized according to the source description.
----
-## Dataset License & Attribution
-
-The dataset included/referenced in this repository is attributed to **Olist** and sourced from the original Kaggle page:
-
-https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-
-If the original dataset page specifies the license as **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**, then redistribution and reuse in this repository are intended to follow that license.
-
-License link:
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-Under this license:
-- **Attribution (BY):** Proper credit must be given to Olist and the original source.
-- **NonCommercial (NC):** The dataset and this redistribution are intended for non-commercial, educational, and portfolio purposes only.
-- **ShareAlike (SA):** If the dataset has been modified, transformed, or adapted, those contributions must be shared under the same license.
-- **No endorsement:** Nothing in this repository implies that Olist endorses me, this project, or any derived analysis.
-- ----
-## Changes Made to the Data
-
-The original dataset was obtained from the source above. In this repository, I may have performed one or more of the following steps for analysis purposes:
-
-- cleaned missing or inconsistent values
-- standardized column names or data types
-- created derived analytical tables / feature tables
-- aggregated records for reporting or modeling
-- added data quality flags
-- joined source files into analysis-ready datasets
-
-Any such modifications are for educational and portfolio purposes and should be treated as derivative analytical work based on the original dataset.
------
-## Non-Commercial Use Notice
-
-This repository is published for **educational, learning, and portfolio purposes only**.
-
-The dataset is **not provided here for commercial reuse**.  
-If you wish to use the data beyond non-commercial purposes, please consult the original source and license terms directly.
-----
-## Redistribution Notice
-
-Raw and/or processed dataset files included in this repository are redistributed solely for convenience and reproducibility, subject to the original dataset’s license terms.
-
-If you use, copy, modify, or redistribute these files, you are responsible for complying with the original license conditions, including attribution, non-commercial use, and share-alike requirements where applicable.
 --------
 
 
@@ -240,3 +188,78 @@ notebooks/               -> Jupyter notebooks
 sql/                     -> SQL scripts
 data/                    -> data notes / cleaned data references
 assets/                  -> additional supporting files
+
+----
+
+## Data Source
+
+This project uses the **Brazilian E-Commerce Public Dataset by Olist**.
+
+- **Source / Provider:** Olist
+- **Original dataset page:** https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+- **Dataset summary:** Public Brazilian e-commerce dataset containing approximately 100k orders from 2016 to 2018, including orders, customers, sellers, products, payments, reviews, and geolocation data.
+- **Anonymization notice:** According to the original source, the dataset is anonymized and identifying references in review text were replaced.
+
+## Important License Scope Notice
+
+**The MIT License in this repository applies only to the original code, notebooks, SQL scripts, documentation, and other original project materials created by the repository owner.**
+
+**It does NOT apply to third-party dataset files, including the Olist dataset, whether raw, cleaned, transformed, or exported.**
+
+All dataset files remain subject to the **original dataset source terms and license conditions**.
+
+## Dataset Attribution
+
+Original dataset credit belongs to **Olist**.  
+Original dataset page: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+This repository does **not** claim ownership of the original dataset.
+
+## Dataset License Notice
+
+If the original dataset page specifies the dataset license as **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**, then any dataset files included in this repository are intended to remain subject to that license and not to the MIT License.
+
+CC BY-NC-SA 4.0:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Under that license:
+- Attribution to the original source must be preserved.
+- Commercial use is not permitted.
+- Adaptations or derivative versions must be shared under the same license.
+- Changes made to the original material should be indicated.
+- No endorsement by Olist is implied.
+
+## Changes Made to the Data
+
+For analysis purposes, this project may include one or more of the following transformations:
+- data cleaning
+- missing value handling
+- data type standardization
+- column renaming
+- feature engineering
+- aggregation
+- analytical exports
+- data quality flags
+- derived tables for reporting or modeling
+
+Any such modifications are analytical transformations for educational and portfolio purposes only.
+
+## Non-Commercial Data Use Notice
+
+Dataset files included in this repository, if any, are shared only for **educational, reproducibility, and portfolio purposes**.
+
+They are **not** provided under the MIT License and are **not** intended for unrestricted commercial reuse.
+
+Anyone reusing dataset files from this repository is responsible for reviewing and complying with the original dataset license and source terms.
+
+## No Ownership / No Endorsement
+
+This repository does not claim any ownership in the original Olist dataset.
+
+Nothing in this repository should be interpreted as suggesting that **Olist** endorses the repository owner, this project, or any derived analysis, dashboards, conclusions, or models.
+
+## Disclaimer
+
+This repository is provided "as is", without warranties of any kind.
+
+The repository owner makes no representation that inclusion of third-party data is sufficient for every downstream use case. Users are responsible for independently verifying the original source terms, applicable license conditions, and any other rights or restrictions that may apply.
